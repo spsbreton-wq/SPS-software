@@ -1,14 +1,15 @@
 import { useState } from 'react'
+import style from "../styles/Homepage.module.css";
 
 function navBar() {
     return (
         <Header>  
-            <div className="navBar">
+            <div className={style.navBar}>
                 <nav>
-                    <div className="logo">
+                    <div className={style.logo}>
                         <img src={logo} alt="Logo" />
                     </div>
-                    <div className="menu-links">
+                    <div className={style['menu-links']}>
                         <ul>
                             <li><a href="#home">Inicio</a></li>
                             <li><a href="#about">Sobre SPS</a></li>

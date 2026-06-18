@@ -1,4 +1,4 @@
-import style from "../styles/Homepage.module.css";
+import style from "../styles/NewsSection.module.css";
 import News1 from "../../public/News1.png";
 import News2 from "../../public/News2.png";
 import News3 from "../../public/News3.png";

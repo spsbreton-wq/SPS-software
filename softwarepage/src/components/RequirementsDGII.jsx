@@ -1,4 +1,4 @@
-import style from "../styles/Homepage.module.css";
+import style from "../styles/Requirements.module.css";
 
 function RequirementsDGII() {
     return (

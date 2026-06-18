@@ -14,15 +14,13 @@ function App() {
     <main>
       <NavigationBar />
       <AboutUS />
-<OurValues/>
-<OurValuesSction2 />
-       
+      <OurValues/>
+      <OurValuesSction2 />
       <Products />
-      
       <WhatsApp />
       <RequirementsDGII />
       <NewsSection />
-       <SPSMap />
+      <SPSMap />
       <Footer />
     </main>
   );
